@@ -3,10 +3,10 @@ module.exports = {
     // edit below
     title: `Pandemic-Update`,
     author: `Joett Ocasio`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Keeping You Informed With Revelant Information.`,
+    siteUrl: `https://Pandemic-Upate.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: ``,
     },
   },
   plugins: [
