@@ -44,3 +44,4 @@ description: >-
   Find out all the latest information regarding the stimulus checks and keep
   yourself updated.
 ---
+stimulus checks will arrive late.
