@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: Jaze-Developement/Pandemic-Update
 
 media_folder: static/assets
 public_folder: assets
