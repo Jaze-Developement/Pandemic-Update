@@ -76,19 +76,15 @@ module.exports = {
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
-        display: `minimal-ui`,
+        display: `standalone`,
         // edit below
-        icon: `content/assets/gatsby-icon.svg`,
+        icon: `content/assets/gatsby-icon.png`,
         cache_busting_mode: "none",
       },
     },
     {
       resolve: "gatsby-plugin-offline",
-      options: {
-        workboxConfig: {
-          globPatterns: ["**/*"],
-        },
-      },
+      options: {},
     },
     {
       resolve: `gatsby-plugin-typography`,
